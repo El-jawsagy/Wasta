@@ -1,0 +1,4 @@
+#Tue Apr 23 20:32:37 WEST 2019
+base.0=C\:\\Users\\Sony\\Documents\\GitHub\\Wasta\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

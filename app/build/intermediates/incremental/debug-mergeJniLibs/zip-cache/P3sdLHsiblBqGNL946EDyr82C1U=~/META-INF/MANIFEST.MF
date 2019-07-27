@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: bazel
+Target-Label: //java/com/google/android/gmscore/dev/client/firebase_co
+ re:versioned_build_resources
+
